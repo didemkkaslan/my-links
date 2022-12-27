@@ -1,10 +1,10 @@
 
 .ld-custom-name {
-    color: black;
+    color: rgb(188, 17, 218);
 }
 
 .ld-custom-name:visited {
-    color: black;
+    color: rgb(188, 17, 118);
 }
 
 .ld-custom-button-container {
